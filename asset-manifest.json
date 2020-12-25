@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/favouritePlanetTask/static/css/main.ec02f97c.chunk.css",
+    "main.js": "/favouritePlanetTask/static/js/main.1ac12688.chunk.js",
+    "main.js.map": "/favouritePlanetTask/static/js/main.1ac12688.chunk.js.map",
+    "runtime-main.js": "/favouritePlanetTask/static/js/runtime-main.dbfb7a86.js",
+    "runtime-main.js.map": "/favouritePlanetTask/static/js/runtime-main.dbfb7a86.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/favouritePlanetTask/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7e4a2d2d.chunk.js": "/favouritePlanetTask/static/js/2.7e4a2d2d.chunk.js",
+    "static/js/2.7e4a2d2d.chunk.js.map": "/favouritePlanetTask/static/js/2.7e4a2d2d.chunk.js.map",
+    "static/js/3.39c0525b.chunk.js": "/favouritePlanetTask/static/js/3.39c0525b.chunk.js",
+    "static/js/3.39c0525b.chunk.js.map": "/favouritePlanetTask/static/js/3.39c0525b.chunk.js.map",
+    "index.html": "/favouritePlanetTask/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/favouritePlanetTask/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ec02f97c.chunk.css.map": "/favouritePlanetTask/static/css/main.ec02f97c.chunk.css.map",
+    "static/js/2.7e4a2d2d.chunk.js.LICENSE.txt": "/favouritePlanetTask/static/js/2.7e4a2d2d.chunk.js.LICENSE.txt",
+    "static/media/Style.scss": "/favouritePlanetTask/static/media/krDPXb.8fe990ca.jpg",
+    "static/media/logo.6ce24c58.svg": "/favouritePlanetTask/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbfb7a86.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7e4a2d2d.chunk.js",
+    "static/css/main.ec02f97c.chunk.css",
+    "static/js/main.1ac12688.chunk.js"
+  ]
+}
